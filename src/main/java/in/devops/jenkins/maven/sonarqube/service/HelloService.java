@@ -6,7 +6,6 @@ import org.springframework.stereotype.Service;
 public class HelloService {
 
     private String res;
-    public String dup2 = "hjbbfhdb";
 
     public String getHello(String name){
         res = "Hello  "+ name;

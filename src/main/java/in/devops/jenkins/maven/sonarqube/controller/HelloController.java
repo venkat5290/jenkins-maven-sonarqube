@@ -12,11 +12,6 @@ public class HelloController {
 
     private String instance = "Test-Machine";
     private String name = "Welcome to Automated JENKINS DEPLOYMENT to K8S";
-    private String dupmsg4= "DUpmsg";
-    public String dup2 = "hjbbfhdb";
-    private String dupmsg1 = "DUpmsg";
-    private String dupmsg2 = "DUpmsg";
-    private String dupmsg3 = "DUpmsg";
 
     @Autowired
     private HelloService hs;
